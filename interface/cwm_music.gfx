@@ -1,0 +1,12 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_general_music_station_cover"
+		textureFile = "gfx/general_music_cover.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_russian_patriotic_music_station_cover"
+		textureFile = "gfx/russian_patriotic_music_cover.dds"
+		noOfFrames = 2
+	}
+}

@@ -1,0 +1,29 @@
+music_station = "russian_patriotic_music"
+music = {
+	song = "phantom"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "victory_is_ours"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "arise_donbass"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "donbass_behind_us"
+	
+	chance = {
+		factor = 1
+	}
+}

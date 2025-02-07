@@ -1,0 +1,8 @@
+music_station = "general_music"
+music = {
+	song = "simulyatsiya"
+	
+	chance = {
+		factor = 1
+	}
+}
