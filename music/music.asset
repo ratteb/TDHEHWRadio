@@ -2,7 +2,7 @@
 # MAIN THEME
 music = {
 	name = "maintheme"
-	file = "u_menya_yest_golova.ogg"
+	file = "misto_rozbytykh_nadiy.ogg"
 	volume = 0.65
 }
 
