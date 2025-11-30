@@ -24,6 +24,19 @@ music = {
 	volume = 0.65
 }
 
+# NEONCORE MUSIC 
+music = {
+	name = "passion_pit"
+	file = "neoncore_radio/passion_pit.ogg"
+	volume = 0.65
+}
+music = {
+	name = "who_was"
+	file = "neoncore_radio/who_was.ogg"
+	volume = 0.65
+}
+
+
 # RUSSIAN PATRIOTIC MUSIC
 music = {
 	name = "phantom"

@@ -1,0 +1,16 @@
+music_station = "neoncore_radio"
+music = {
+	song = "passion_pit"
+	
+	chance = {
+		factor = 1
+	}
+}
+music = {
+	song = "who_was"
+	
+	chance = {
+		factor = 1
+	}
+}
+

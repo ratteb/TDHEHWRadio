@@ -9,4 +9,9 @@ spriteTypes = {
 		textureFile = "gfx/russian_patriotic_music_cover.dds"
 		noOfFrames = 2
 	}
+	spriteType = {	
+		name = "GFX_neoncore_radio_cover"
+		textureFile = "gfx/neoncore_radio_cover.dds"
+		noOfFrames = 2
+	}
 }
