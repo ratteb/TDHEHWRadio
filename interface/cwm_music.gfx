@@ -1,4 +1,5 @@
 spriteTypes = {
+
 	spriteType = {
 		name = "GFX_general_music_station_cover"
 		textureFile = "gfx/general_music_cover.dds"

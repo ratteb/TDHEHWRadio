@@ -3,5 +3,4 @@ tags={
 	"Sound"
 }
 name="Gruppa Ost Radio"
-supported_version="1.17.*"
-replace_path = "music"
+supported_version="1.18.*"
